@@ -1,6 +1,8 @@
-### Hi there 👋
-<hr>
-<!--
+<div>
+    <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="200">
+    <h1 aling="center" Hi 👋, I´m Federico Tahan>
+
+</div>
 **Federico-Tahan/Federico-Tahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
