@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Acerca de mí:
 Soy C# .Net Backend Developer, actualmente estoy realizando proyecto para gestionar ventas en aplicaciones de escritorio (Windows Forms)<br>Estoy en el ultimo año de la Tecnicatura Universitaria en Programacion - UTN<br><br>
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/federico.tahan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/federico_tahan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/federico-tahan) 
 
 # 💻 Tech Stack:
