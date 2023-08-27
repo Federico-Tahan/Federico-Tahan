@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-Soy Backend Developer en .NET,<br>Estoy en el ultimo año de la Tecnicatura Universitaria en Programacion - UTN<br><br>
+Soy Backend Developer en .NET<br>Estoy en el ultimo año de la Tecnicatura Universitaria en Programacion - UTN<br><br>
 
 
 ## 🌐 Redes Sociales:
