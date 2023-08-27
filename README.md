@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-Soy C# .Net Backend Developer, actualmente estoy realizando proyecto para gestionar ventas en aplicaciones de escritorio (Windows Forms)<br>Estoy en el ultimo año de la Tecnicatura Universitaria en Programacion - UTN<br><br>
+Soy Backend Developer en .NET,<br>Estoy en el ultimo año de la Tecnicatura Universitaria en Programacion - UTN<br><br>
 
 
 ## 🌐 Redes Sociales:
