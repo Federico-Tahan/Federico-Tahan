@@ -1,7 +1,6 @@
 # 💫 Acerca de mí:
 Soy Backend Developer en .NET<br>Estoy en el ultimo año de la Tecnicatura Universitaria en Programacion - UTN<br><br>
 
-
 ## 🌐 Redes Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/federico.tahan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/federico_tahan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/federico-tahan) 
 
