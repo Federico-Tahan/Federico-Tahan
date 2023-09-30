@@ -15,5 +15,4 @@ Soy Backend Developer en .NET<br>Estoy en el ultimo año de la Tecnicatura Unive
 [![](https://visitcount.itsvg.in/api?id=Federico-Tahan&icon=9&color=1)](https://visitcount.itsvg.in)
 ![snake gif](https://github.com/Federico-Tahan/Federico-Tahan/blob/output/github-contribution-grid-snake.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
   
